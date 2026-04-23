@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080
-http://119.59.118.168/live/ch9/177680701496262/index.m3u8
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115531.m3u8  
+
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080
 https://love.5qlartdrpf.workers.dev/lx-origin/th-tsporthd1_720/chunks.m3u8
