@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2700000
-https://ipplaybox.fun/dookeela/tsp5/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2700000
 https://love.vohelem576.workers.dev/vx-origin/sd-tsport5_720/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
+https://ipplaybox.fun/dookeela/tsp5/chunks.m3u8
+
