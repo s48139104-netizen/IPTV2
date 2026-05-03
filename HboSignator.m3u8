@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
+https://ipplaybox.fun/dookeela/hbo-signature/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
 http://lookontv.net:2095/play/live.php?mac=10:27:BE:2e:3d:e9&stream=115712&extension=m3u8
 
