@@ -2,7 +2,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2700000
-https://ipplaybox.fun/dookeela/truemoviehits/chunks.m3u8
+http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115720.m3u8
+#https://ipplaybox.fun/dookeela/truemoviehits/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2700000
 https://love.uh6wzyncw9.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8
 
