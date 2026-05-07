@@ -1,9 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2700000
-https://dij0k9i5q0gvn.cloudfront.net/ccm/chunks.m3u8 
-#EXT-X-STREAM-INF:BANDWIDTH=2700000
 https://ipplaybox.fun/dookeela/ccm/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2700000
 https://love.uh6wzyncw9.workers.dev/lx-origin/sd-celestial_720/chunks.m3u8
-
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
+https://dij0k9i5q0gvn.cloudfront.net/ccm/chunks.m3u8 
