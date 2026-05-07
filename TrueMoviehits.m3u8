@@ -1,1 +1,4 @@
-truemoviehits
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
+https://ipplaybox.fun/dookeela/truemoviehits/chunks.m3u8
